@@ -1,3 +1,4 @@
+require('dotenv').config()
 var Discordie = require("discordie")
 var fs = require('fs')
 var data = fs.readFileSync('./data/pengetahuan-umum.json', 'utf8')
@@ -5,7 +6,7 @@ var Events = Discordie.Events
 
 var client = new Discordie({autoReconnect: true})
 
-client.connect({ token: "MjI0NzkxNTgyMjY2NjIxOTUy.Crfo_Q.z72AE8FoYOaXM658M9iAzwF-DkM" })
+client.connect({ token: process.env.BOT_TOKEN })
 
 client.Dispatcher.on(Events.DISCONNECTED, e => {
   console.log(e)
