@@ -1,0 +1,410 @@
+{
+  "questions":[
+    {
+      "text": "Nama ibu kota Indonesia?",
+      "answers":
+        {
+          "text": "jakarta"
+        }
+    },
+    {
+    	"text": "Jumlah sisi segitiga?",
+      "answers":
+        {
+          "text": "tiga"
+        }
+    },
+    {
+    	"text": "Penemu telepon?",
+      "answers":
+        {
+          "text": "alexander graham bell"
+        }
+    },
+    {
+    	"text": "Vitamin yang larut dalam air?",
+      "answers":
+        {
+          "text": "c"
+        }
+    },
+    {
+    	"text": "Penduduk asli benua Amerika?",
+      "answers":
+        {
+          "text": "indian"
+        }
+    },
+    {
+    	"text": "Senjata khas suku Aborigin?",
+      "answers":
+        {
+          "text": "bumerang"
+        }
+    },
+    {
+    	"text": "Letak sungai Amazon di?",
+      "answers":
+        {
+          "text": "brazil"
+        }
+    },
+    {
+      "text": "pohon yang melambangkan hari natal?",
+      "answers":
+        {
+          "text": "cemara"
+        }
+    },
+    {
+      "text": "ibukota negara rusia?",
+      "answers":
+        {
+          "text": "moskow"
+        }
+    },
+   	{
+      "text": "bahan yang di gunakan untuk membuat madu?",
+      "answers":
+        {
+          "text": "nektar"
+        }
+    },
+    {
+      "text": "nama kapal pesiar yang tenggelam pada tanggal 15 juni 1912?",
+      "answers":
+        {
+          "text": "titanic"
+        }
+    },
+  	{
+      "text": "bahan utama membuat lipstik?",
+      "answers":
+        {
+          "text": "sisik ikan"
+        }
+    },
+    {
+      "text": "burung tercepat di dunia?",
+      "answers":
+        {
+          "text": "falcon"
+        }
+    },
+   	{
+      "text": "orang yang mengoleksi prangko?",
+      "answers":
+        {
+          "text": "filatelli"
+        }
+    },
+    {
+      "text": "manusia tersadis di jerman?",
+      "answers":
+        {
+          "text": "adolf hitler"
+        }
+    },
+   	{
+      "text": "primata yang paling cerdas?",
+      "answers":
+        {
+          "text": "simpanse"
+        }
+    },
+    {
+      "text": "ledakan bintang di galaksi?",
+      "answers":
+        {
+          "text": "supernova"
+        }
+    },
+    {
+      "text": "minuman favorite di dunia yang kedua?",
+      "answers":
+        {
+          "text": "kopi"
+        }
+    },
+    {
+      "text": "mamalia tertinggi?",
+      "answers":
+        {
+          "text": "jerapah"
+        }
+    },
+    {
+      "text": "pause pembunuh adalah nama lain dari paus?",
+      "answers":
+        {
+          "text": "orca"
+        }
+    },
+    {
+      "text": "suara dengan frekuensi 20-20.000 hz termasuk bunyi?",
+      "answers":
+        {
+          "text": "audiosonik"
+        }
+    },
+    {
+      "text": "patung liberty berada di pulau?",
+      "answers":
+        {
+          "text": "liberty"
+        }
+    },
+    {
+      "text": "Penemu gunting adalah?",
+      "answers":
+        {
+          "text": "leonardo da vinci"
+        }
+    },
+    {
+      "text": "Penduduk asli negara australia?",
+      "answers":
+        {
+          "text": "aborigin"
+        }
+    },
+    {
+      "text": "Ketakutan berlebihan akan suatu hal disebut?",
+      "answers":
+        {
+          "text": "phobia"
+        }
+    },
+    {
+      "text": "alat untuk mengukur gempa bumi ?",
+      "answers":
+        {
+          "text": "seismograf"
+        }
+    },
+    {
+      "text": "salah satu penyebab timbul nya cidera dalam olah raga karena kurang nya?",
+      "answers":
+        {
+          "text": "kalsium"
+        }
+    },
+    {
+      "text": "senjata energi yang di gunakan ghostbusters dalam menangkap hantu adalah?",
+      "answers":
+        {
+          "text": "proton pack"
+        }
+    },
+    {
+      "text": "penyanyi korea pertama yang mengadakan konser internasional di Madison Square Garden adalah?",
+      "answers":
+        {
+          "text": "rain"
+        }
+    },
+    {
+      "text": "sebuah papan catur memiliki kotak-kotak tempat bidak sebanyak?",
+      "answers":
+        {
+          "text": "64"
+        }
+    },
+    {
+      "text": "arah jam 9 itu sama dengan arah?",
+      "answers":
+        {
+          "text": "barat"
+        }
+    },
+    {
+      "text": "pause pembunuh adalah nama lain dari paus?",
+      "answers":
+        {
+          "text": "orca"
+        }
+    },
+    {
+      "text": "suara dengan frekuensi 20-20.000 hz termasuk bunyi?",
+      "answers":
+        {
+          "text": "audiosonik"
+        }
+    },
+    {
+      "text": "patung liberty berada di pulau?",
+      "answers":
+        {
+          "text": "liberty"
+        }
+    },
+    {
+      "text": "Penemu gunting adalah?",
+      "answers":
+        {
+          "text": "leonardo da vinci"
+        }
+    },
+    {
+      "text": "Penduduk asli negara australia?",
+      "answers":
+        {
+          "text": "aborigin"
+        }
+    },
+    {
+      "text": "Ketakutan berlebihan akan suatu hal disebut?",
+      "answers":
+        {
+          "text": "phobia"
+        }
+    },
+    {
+      "text": "alat untuk mengukur gempa bumi ?",
+      "answers":
+        {
+          "text": "seismograf"
+        }
+    },
+    {
+      "text": "salah satu penyebab timbul nya cidera dalam olah raga karena kurang nya?",
+      "answers":
+        {
+          "text": "kalsium"
+        }
+    },
+    {
+      "text": "senjata energi yang di gunakan ghostbusters dalam menangkap hantu adalah?",
+      "answers":
+        {
+          "text": "proton pack"
+        }
+    },
+    {
+      "text": "penyanyi korea pertama yang mengadakan konser internasional di Madison Square Garden adalah?",
+      "answers":
+        {
+          "text": "rain"
+        }
+    },
+    {
+      "text": "Gunung Tertinggi di Dunia",
+      "answers":
+        {
+          "text": "Mauna Kea"
+        }
+    },
+    {
+      "text": "Danau Terluas di Dunia",
+      "answers":
+        {
+          "text": "Kaspia"
+        }
+    },
+    {
+      "text": "Penemu Mesin Uap",
+      "answers":
+        {
+          "text": "James Watt"
+        }
+    },
+    {
+      "text": "Pendiri Palang Merah",
+      "answers":
+        {
+          "text": "Henry Dunant"
+        }
+    },
+    {
+      "text": "Pengarang Novel Sherlock Holmes",
+      "answers":
+        {
+          "text": "Sir Arthur Conan Doyle"
+        }
+    },
+    {
+      "text": "Danau Tiga Warna di Indonesia",
+      "answers":
+        {
+          "text": "Kelimutu"
+        }
+    },
+    {
+      "text": "Proses Pembekuan Darah Disebut",
+      "answers":
+        {
+          "text": "Koagulasi"
+        }
+    },
+    {
+      "text": "Nama Lain Penyakit Darah Tinggi",
+      "answers":
+        {
+          "text": "Usus Buntu"
+        }
+    },
+    {
+      "text": "Pelukis Lukisan Starry Night",
+      "answers":
+        {
+          "text": "Vincent van Gogh"
+        }
+    },
+    {
+      "text": "Presiden Wanita Pertama Indonesia",
+      "answers":
+        {
+          "text": "Megawati"
+        }
+    },
+    {
+      "text": "Jumlah tulang pada manusia dewasa",
+      "answers":
+        {
+          "text": "206"
+        }
+    },
+    {
+      "text": "Sila kedua pancasila",
+      "answers":
+        {
+          "text": "kemanusiaan yang adil dan beradab"
+        }
+    },
+    {
+      "text": "Ibukota Sulawesi Tenggara",
+      "answers":
+        {
+          "text": "Kendari"
+        }
+    },
+    {
+      "text": "Negara Turki terletak di Benua ?",
+      "answers":
+        {
+          "text": "Asia"
+        }
+    },
+    {
+      "text": "Ibukota Selandia Baru",
+      "answers":
+        {
+          "text": "Wellington"
+        }
+    },
+    {
+      "text": "Palung Terdalam di Dunia",
+      "answers":
+        {
+          "text": "Mindanau"
+        }
+    },
+    {
+      "text": "Penyakit yang disebabkan bakteri Sakmonella",
+      "answers":
+        {
+          "text": "Tifus"
+        }
+    }
+  ]
+}
