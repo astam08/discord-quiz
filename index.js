@@ -29,7 +29,7 @@ client.Dispatcher.on(Events.MESSAGE_CREATE, e => {
   if (e.message.content == '!ping') {
   	e.message.channel.sendMessage(helpCommand(e))
   }
-  if (e.message.content === '!bantuaku') {
+  if (e.message.content === '!bantuan') {
   	e.message.channel.sendMessage(commandList())
   }
   if (e.message.content === '!yansen') {
