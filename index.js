@@ -107,7 +107,7 @@ function getQuestion (e) {
 }
 
 function helpCommand (e) {
-	return 'Hi, ' + e.message.author.username + ' butuh bantuan? \nketik !bantuaku'
+	return 'Hi, ' + e.message.author.username + ' butuh bantuan? \nketik !bantuan'
 }
 
 function commandList () {
