@@ -89,9 +89,9 @@ client.Dispatcher.on(Events.MESSAGE_CREATE, e => {
   		question += 1
   	}
   }
-  setTimeout(function () {
-  	client.Messages.deleteMessage(e.message)
-  }, false)
+  setTimeout()
+  	
+
 })
 
 function getQuestion (e) {
