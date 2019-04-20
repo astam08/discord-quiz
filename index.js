@@ -91,7 +91,7 @@ client.Dispatcher.on(Events.MESSAGE_CREATE, e => {
   }
   setTimeout(function () {
   	client.Messages.deleteMessage(e.message)
-  }, false)
+  }, )
 })
 
 function getQuestion (e) {
